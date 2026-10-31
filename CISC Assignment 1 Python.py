@@ -80,3 +80,4 @@ def perm_check(A):
         expected_number = position + 1
         if sorted_numbers[position] != expected_number:
             return 0
+return 1
